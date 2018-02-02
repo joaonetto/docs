@@ -32,7 +32,7 @@ msgstr ""
 "Esta é uma documentação de alto nível para a plataforma IoT dojot desenvolvida"
 " pelo CPqD. Esta plataforma foi baseada no [FIWARE](fiware.org), e tem como objetivo"
 " prover aos desenvolvedores de aplicações e dispositivos uma interação mais concisa e"
-"integrada, através dos benefícios de uma infraestrutura eficiente e altamente"
+" integrada, através dos benefícios de uma infraestrutura eficiente e altamente"
 " customizável provida pelo FIWARE"
 
 #: ../../source/index.rst:9
